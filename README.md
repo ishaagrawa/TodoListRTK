@@ -1,8 +1,19 @@
-# React + Vite
+# Todo App with React and Redux Toolkit
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+This is a Todo application built with React and Redux Toolkit. It provides a user-friendly interface for managing tasks, allowing users to add, edit, complete, and delete todos. The application uses `localStorage` to persist data across sessions.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **Add Todos**: Add new tasks to your list.
+- **Edit Todos**: Modify existing tasks with inline editing.
+- **Complete/Uncomplete Tasks**: Toggle the completion status of tasks.
+- **Delete Todos**: Remove tasks from the list.
+- **Persistent Storage**: Todos are saved in `localStorage` to ensure persistence across page reloads.
+
+## Technologies Used
+
+- **React**: For building the user interface.
+- **Redux Toolkit**: For state management.
+- **localStorage**: For data persistence.
