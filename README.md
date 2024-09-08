@@ -4,6 +4,8 @@
 
 This is a Todo application built with React and Redux Toolkit. It provides a user-friendly interface for managing tasks, allowing users to add, edit, complete, and delete todos. The application uses `localStorage` to persist data across sessions.
 
+![Todo App Screenshot](assets/screenshot.png)  <!-- Update this path to match where you place your screenshot -->
+
 ## Features
 
 - **Add Todos**: Add new tasks to your list.
@@ -17,3 +19,7 @@ This is a Todo application built with React and Redux Toolkit. It provides a use
 - **React**: For building the user interface.
 - **Redux Toolkit**: For state management.
 - **localStorage**: For data persistence.
+
+## Live Demo
+
+Check out the live demo of the application at: [Todo List RTK Live Demo](https://todo-list-rtk-psi.vercel.app/)
