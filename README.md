@@ -4,7 +4,7 @@
 
 This is a Todo application built with React and Redux Toolkit. It provides a user-friendly interface for managing tasks, allowing users to add, edit, complete, and delete todos. The application uses `localStorage` to persist data across sessions.
 
-![Todo App Screenshot](Screenshot 2024-09-09 002511.png)  <!-- Update this path to match where you place your screenshot -->
+![Todo App Screenshot](assets/todo-rtk.png)   <!-- Update this path to match where you place your screenshot -->
 
 ## Features
 
