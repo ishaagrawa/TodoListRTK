@@ -1,11 +1,12 @@
 import React from 'react';
-import AddTodo from './components/AddTodo';
 import Todos from './components/Todos';
+import './App.css';
+
 
 function App() {
   return (
-    <div>
-      <AddTodo />
+    <div className="app-container">
+      <h1 className="app-title"> TO-DO LIST</h1>
       <Todos />
     </div>
   );
